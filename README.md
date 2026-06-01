@@ -1,4 +1,4 @@
 <div align = "center">
-  <img src=""></img>
+  <img src="main.png"></img>
   <h1>YIH</h1>
 </div>
